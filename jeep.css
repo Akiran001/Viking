@@ -1,0 +1,94 @@
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    position: fixed;
+}
+
+a{
+    text-decoration: none;
+    padding: 0px 20px;
+    padding-left: 5px;
+    color: rgb(132, 130, 130);
+    font-size: larger;
+}
+a:hover{
+    color: rgb(240, 12, 12);
+}
+.one{
+display: flex;
+}
+
+.two{
+    padding-top: 70px;
+    padding-left: 70px;
+}
+.three{
+    display: flex;
+    }
+    
+.four{
+        padding-top: 70px;
+        padding-left: 70px;
+        background-color: black;
+        color: antiquewhite;
+    }
+.five{
+        display: flex;
+        }
+        
+.six{
+        padding-top: 70px;
+        padding-left: 70px;
+        background-color: rgba(13, 13, 13, 0.8);
+        color: antiquewhite;
+        }    
+
+    .seven{
+        display: flex;
+        }
+            
+    .eight{
+            padding-top: 70px;
+            padding-left: 70px;
+            background-color: rgb(6, 6, 6);
+            color: antiquewhite;
+        } 
+        
+    .nine{
+        display: flex;
+        }
+            
+    .ten{
+        padding-top: 90px;
+        padding-left: 70px;
+        padding-right: 20px;
+        background-color: rgb(128, 125, 125);
+        color: rgb(11, 11, 11);
+        } 
+        
+    .eleven{
+        display: flex;
+        }
+            
+    .twele{
+         padding-top: 70px;
+         padding-left: 70px;
+         background-color: rgb(7, 7, 7, 0.8);
+         color: rgb(244, 240, 240);
+         }            
+    
+    .nav{
+        background-color: black;
+        color: white
+    }     
+    .m{
+        padding-left: 30px;
+    }
+    .footer{
+        padding-top: 7px;
+        padding-left: 700px;
+    }
+
+    .descrip{
+        padding-left: 30px;
+    }
+    
+   
